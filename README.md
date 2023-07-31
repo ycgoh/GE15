@@ -26,5 +26,4 @@
 <li>extrafont</li>
 </ul>
 <p>This is my first animated map. Took me some time to figure out the animation packages tweenr, and then transformr. transformr is a godsend for spatial data animation. Some boundaries look jagged in animation. The static maps look fine though.</p>
-<p>I probably am not using github correctly since I am just winging it.</p>
 
